@@ -1,1 +1,0 @@
-pyinstaller --onefile --windowed --icon=portico_icono.ico --add-data "main_ui_porticos_opengl_version05.ui;." --name "prtsmk"  logica_diagrama_porticos_opengl_version05.py
